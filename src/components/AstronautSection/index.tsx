@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyledAstronaut } from './styles';
-
-const ASTRONAUT_IMAGE = "https://i.imgur.com/tBkWIfP.png"
+import ASTRONAUT_IMAGE from '../../assets/tBkWIfP.png'
 
 export const AstronautSection = () => {
   return (
