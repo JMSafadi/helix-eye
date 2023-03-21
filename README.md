@@ -2,6 +2,13 @@
 # Helix Eye
 En Helix Eye podes ver información real sobre el espacio exterior y sus galaxias. Los datos son consumidos desde la API oficial de la Nasa. 
 
+**Tecnologias:**
+* Vite
+* React
+* Reactt-router-dom
+* Styled Components
+* Typescript
+
 Para correr en tu servidor local:
 ```
 npm install
