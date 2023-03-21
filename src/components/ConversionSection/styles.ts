@@ -31,5 +31,12 @@ export const StyledConversionSection = styled.section`
     padding: 10px 8px;
     margin-top: 32px;
     border: 2px solid #0C87F2;
+    background-color: #0C87F2;
+    color: white;
+  }
+
+  & > .link:hover {
+    color: #0C87F2;
+    background-color: white;
   }
 `
