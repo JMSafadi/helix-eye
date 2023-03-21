@@ -1,10 +1,5 @@
-# helix-eye
-En Helix Eye podes ver información real sobre el espacio exterior y sus galaxias. Los datos son consumidos desde la API oficial de la Nasa. 
-
-![Batata](https://drive.google.com/file/d/1HP_YdDYMosAp6wwagaMzvzdk39uwqxGJ/view)
-# Batatabit
-
-# helix-eye
+![Helix Eye](https://drive.google.com/file/d/1HP_YdDYMosAp6wwagaMzvzdk39uwqxGJ/view)
+# Helix Eye
 En Helix Eye podes ver información real sobre el espacio exterior y sus galaxias. Los datos son consumidos desde la API oficial de la Nasa. 
 
 Para correr en tu servidor local:
