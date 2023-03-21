@@ -9,7 +9,7 @@ En Helix Eye podes ver información real sobre el espacio exterior y sus galaxia
 * Styled Components
 * Typescript
 
-Para correr en tu servidor local:
+**Para correr el proyecto en servidor local, clona el repositorio y despues corre los siguientes comandos:**
 ```
 npm install
 npm run dev
