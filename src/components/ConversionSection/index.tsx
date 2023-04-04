@@ -12,9 +12,9 @@ export const ConversionSection = () => {
         alt="Una nave espacial"
       />
       <h2 className="title">
-        ¡Explorar el espacio nunca fue tan fácil!
+        Explore the space never was so easy!
       </h2>
-      <Link className="link" to='/galaxias'>Empieza ahora</Link>
+      <Link className="link" to='/galaxies'>Starts now</Link>
     </StyledConversionSection>
   );
 };

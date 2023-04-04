@@ -10,7 +10,7 @@ export const Hero = () => {
         <img src={LOGO_IMAGE} alt="helix eye" />
       </picture>
       <p>
-        Todo el conocimiento del espacio en un solo lugar
+        All the knowledge about space in one place
       </p>
     </StyledHero>
   )

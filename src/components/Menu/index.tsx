@@ -27,8 +27,8 @@ export const Menu = () => {
             </Link>
           </li>
           <li>
-            <Link to="/galaxias" onClick={closeMenu}>
-              Galaxias
+            <Link to="/galaxies" onClick={closeMenu}>
+              Galaxies
             </Link>
           </li>
         </ul>

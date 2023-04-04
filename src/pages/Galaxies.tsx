@@ -23,7 +23,7 @@ export const Galaxies = () => {
 
   return (
     <GalaxiesPageWrapper>
-      <h1>Galaxias</h1>
+      <h1>Galaxies</h1>
       {renderLayout()}
     </GalaxiesPageWrapper>
   );

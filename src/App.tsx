@@ -1,4 +1,3 @@
-import React from 'react';
 import { Routes, Route } from "react-router-dom";
 import { GlobalStyles } from './styles/GlobalStyles';
 import { Menu } from './components/Menu';
@@ -14,7 +13,7 @@ function App() {
       <Menu />
       <Routes>
         <Route index path='/' element={<Home />} />
-        <Route path="/galaxias" element={<Galaxies />} />
+        <Route path="/galaxies" element={<Galaxies />} />
       </Routes>
       <Footer/>
     </>
