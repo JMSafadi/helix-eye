@@ -1,4 +1,4 @@
-[![helix-eye.png](https://i.postimg.cc/GhGj0GLV/helix-eye.png)](https://postimg.cc/8jkvMFrm)
+[![helix-eye.png](https://i.postimg.cc/fWYhq7Gq/helix-eye.png)](https://postimg.cc/bdYMsnN1)
 # Helix Eye
 At Helix Eye, you can see real information about outer space and its galaxies. The information is provided by NASA's official API.
 
@@ -16,6 +16,6 @@ npm install
 npm run dev
 ```
 
-[Deploy](https://helix-eye.web.app/)
+[Go to Helix Eye](https://helix-eye.web.app/)
 ---
 More projects in my [portfolio](https://juliansafadi-app.web.app/)
