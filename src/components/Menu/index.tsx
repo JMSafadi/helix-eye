@@ -31,6 +31,16 @@ export const Menu = () => {
               Galaxies
             </Link>
           </li>
+          <li>
+            <Link to="/planets" onClick={closeMenu}>
+              Planets
+            </Link>
+          </li>
+          <li>
+            <Link to="/apod" onClick={closeMenu}>
+              APOD
+            </Link>
+          </li>
         </ul>
       </MenuContainer>
     </>

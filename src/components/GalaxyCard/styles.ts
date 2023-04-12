@@ -3,6 +3,8 @@ import styled from 'styled-components';
 export const GalaxyCardContainer = styled.div`
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   border-radius: 8px;
+  background: linear-gradient(270deg, rgb(38, 70, 166), rgb(12, 135, 242));
+  color: white;
   
   & > .title {
     text-align: center;
@@ -30,10 +32,12 @@ export const GalaxyCardContainer = styled.div`
 
       & > .keyword {
         background: #2646A6;
-        color: white;
+        background-color: white;
+        color: black;
         padding: 0.5rem;
         border-radius: 8px;
-        font-size: 0.65rem;
+        font-size: 0.80rem;
+        font-weight: 600;
       }
     }
 
