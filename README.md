@@ -1,20 +1,21 @@
-[![helix-eye.png](https://i.postimg.cc/GhGj0GLV/helix-eye.png)](https://postimg.cc/8jkvMFrm)
+[![helix-eye.png](https://i.postimg.cc/fWYhq7Gq/helix-eye.png)](https://postimg.cc/bdYMsnN1)
 # Helix Eye
-En Helix Eye podes ver información real sobre el espacio exterior y sus galaxias. Los datos son consumidos desde la API oficial de la Nasa. 
+At Helix Eye, you can see real information about outer space and its galaxies. The information is provided by NASA's official API.
 
-**Tecnologias:**
+
+**Technologies:**
 * Vite
 * React
 * Reactt-router-dom
 * Styled Components
 * Typescript
 
-**Para correr el proyecto en servidor local, clona el repositorio y despues corre los siguientes comandos:**
+**To run the project on a local server, clone the repository and then run the following commands:**
 ```
 npm install
 npm run dev
 ```
 
-[Deploy](https://helix-eye.web.app/)
+[Go to Helix Eye](https://helix-eye.web.app/)
 ---
-Más proyectos en mi [portfolio](https://juliansafadi-app.web.app/)
+More projects in my [portfolio](https://juliansafadi-app.web.app/)
